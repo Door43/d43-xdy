@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xdy:home|Door43 (xdy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xdy|d43-xdy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xdy/archive/master.zip|d43-xdy.zip]]
+
+**Recent Changes**
+{{changes>ns = xdy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xdy|Ethnologue data]]
+
